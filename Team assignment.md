@@ -4,7 +4,7 @@ This assignment is based on the case "Orange Juice Pricing".
 
 ### Task
 
-Answer the three questions proposed at the end of the case, explaining briefly how have did you obtain your results.
+Answer the three questions proposed at the end of the case, explaining briefly how did you obtain your results.
 
 ### Submission
 
